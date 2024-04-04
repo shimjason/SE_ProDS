@@ -11,7 +11,9 @@
 #### 2) 특정 파일 다운로드
 해당 파일을 클릭해서 들어간 후 흰색 [download ZIP] 부분을 누르면 됩니다.
 
-
+pw: asdf7890 
+or
+pw: dx9999
 연락처: contact@rloha.io
 
 ---------
